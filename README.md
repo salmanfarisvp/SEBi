@@ -1,14 +1,24 @@
 ## SEBi -Smart Electric Waste Bin
+
+![Image](https://github.com/salmanfarisvp/SEBi/blob/master/icon.PNG)
+
 ```
-  1.Arduino Uno
-  2.IR transceiver
-  3.Servo 90
-  4.GSM Module
+  Hardware :-
+        =>NodeMCU
+        =>Ultrasonice Sensor
+        =>LED
+
+Software :-
+        =>Arduino IDE
+        =>Cayenne
+  
   
   ```
 
+
+
  
-![Image](https://github.com/salmanfarisvp/SEBi/blob/master/wiring.PNG)
+![Image](https://github.com/salmanfarisvp/SEBi/blob/master/Wiring.PNG)
 
 
 [code](https://github.com/salmanfarisvp/SEBi/blob/master/SEBi.ino)
