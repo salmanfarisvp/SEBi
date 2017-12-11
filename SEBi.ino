@@ -14,12 +14,12 @@ Software :-
 -----------------------------------------------------------------------------------------**/
 #include <CayenneMQTTESP8266.h> 
 
-char ssid[] = "FoxLab"; 
-char password[] = "foxlabmakerspacemaker"; 
+char ssid[] = "Wifi Name"; 
+char password[] = "Wifi password"; 
 
-char username[] = "e9de82f0-de60-11e7-ba6c-75d14f3b7ebe";
-char mqtt_password[] = "1c63d4c93709c61a6e6f597522bce10d1c4f82f9"; 
-char client_id[] = "0b35d200-de61-11e7-ad90-91233d82c471"; 
+char username[] = "mqqt User Name";
+char mqtt_password[] = "mqtt Password"; 
+char client_id[] = "mqtt Clinet ID"; 
 
 #define trigPin D2 
 #define echoPin D5 
