@@ -1,6 +1,6 @@
 ## SEBi -Smart Electric Waste Bin
 
-![Image](https://github.com/salmanfarisvp/SEBi/blob/master/icon.png?raw=true)
+![](https://github.com/salmanfarisvp/SEBi/blob/master/icon.png?raw=true)
 
 ```
   Hardware :-
@@ -18,7 +18,10 @@ Software :-
 
 
  
-![Image](https://github.com/salmanfarisvp/SEBi/blob/master/Wiring.png?raw=true)
+![](https://github.com/salmanfarisvp/SEBi/blob/master/Wiring.png?raw=true)
+
+![](https://guides.github.com/activities/hello-world/branching.png)
 
 
-[code](https://github.com/salmanfarisvp/SEBi/blob/master/SEBi.ino)
+
+[](https://github.com/salmanfarisvp/SEBi/blob/master/SEBi.ino)
