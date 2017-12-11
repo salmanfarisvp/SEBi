@@ -1,11 +1,11 @@
 ## SEBi -Smart Electric Waste Bin
 
-![Image](https://github.com/salmanfarisvp/SEBi/blob/master/icon.PNG)
+![Image](https://github.com/salmanfarisvp/SEBi/blob/master/icon.png?raw=true)
 
 ```
   Hardware :-
-        =>NodeMCU
-        =>Ultrasonice Sensor
+        =>NodeMCU(ESP8266-12E)
+        =>Ultrasonic Sensor (HCSR-04)
         =>LED
 
 Software :-
@@ -18,7 +18,7 @@ Software :-
 
 
  
-![Image](https://github.com/salmanfarisvp/SEBi/blob/master/Wiring.PNG)
+![Image](https://github.com/salmanfarisvp/SEBi/blob/master/Wiring.png?raw=true)
 
 
 [code](https://github.com/salmanfarisvp/SEBi/blob/master/SEBi.ino)
