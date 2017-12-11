@@ -17,10 +17,9 @@ Software :-
 
 
 
- 
-![](https://github.com/salmanfarisvp/SEBi/blob/master/Wiring.png?raw=true)
+![](https://github.com/salmanfarisvp/SEBi/blob/masteriring.png?raw=true)
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+
 
 
 
