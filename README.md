@@ -17,7 +17,7 @@ Software :-
 
 
 
-![](https://github.com/salmanfarisvp/SEBi/blob/masteriring.png?raw=true)
+![](https://github.com/salmanfarisvp/SEBi/blob/master/wiring.PNG?raw=true)
 
 
 
